@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+    --bg-bg: url("/bg.png");
+    --bg-top: url("/top.png");
+    --bg-select: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjMDAwMDAwIj48cGF0aCBkPSJNNDgwLTM2MCAyODAtNTYwaDQwMEw0ODAtMzYwWiIvPjwvc3ZnPg==");
+    --font-berkshire: "Berkshire Swash", serif;
+    --font-lora: "Lora", serif;
+}

@@ -51,7 +51,7 @@ export default function Jadwal() {
     return (
         <>
             <section className="mb-24">
-                <div className="container mx-auto px-6 sm:px-8 lg:max-w-4xl bg-(image:--bg-bg) bg-repeat py-24 relative before:absolute before:top-0 before:left-0 before:w-full before:h-full before:bg-radial before:from-emerald-700/90 before:to-emerald-950/90 before:-z-10 before:pointer-events-none isolate">
+                <div className="container mx-auto px-4 sm:px-8 lg:max-w-4xl bg-(image:--bg-bg) bg-repeat py-24 relative before:absolute before:top-0 before:left-0 before:w-full before:h-full before:bg-radial before:from-emerald-700/90 before:to-emerald-950/90 before:-z-10 before:pointer-events-none isolate">
                     <div className="absolute top-0 left-0 -z-10 pointer-events-none w-full h-full before:absolute before:top-0 before:left-0 before:bg-(image:--bg-top) before:bg-repeat-x before:w-full before:h-20 before:bg-contain before:bg-center"></div>
                     <h1 className="text-center text-4xl sm:text-5xl font-medium font-berkshire text-white mb-4">Jadwal Imsakiyah</h1>
                     <h2 className="text-xl sm:text-2xl font-medium text-center text-white mb-3">Ramadan 1446 H / 2025 M</h2>
